@@ -1,0 +1,24 @@
+header{
+    padding: 30px;
+    background-color: #333334;
+    font-size: 3em;
+    font: bold;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cabecera img{
+    width: 20%;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+.informacion{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
